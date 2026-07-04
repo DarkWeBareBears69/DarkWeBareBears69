@@ -1,4 +1,7 @@
-## Hi there 👋
+What's up, this is DarkWeBareBears69 (TheUnknownKoala4545) here!
+
+## Blacklist
+* mstan - making vibe-coded recomps of games
 
 <!--
 **DarkWeBareBears69/DarkWeBareBears69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
