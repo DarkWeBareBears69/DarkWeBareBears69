@@ -1,6 +1,6 @@
 What's up, this is DarkWeBareBears69 (TheUnknownKoala4545) here!
 
-## Blacklist
+## Blacklist (guys that i don't want to collab with)
 * mstan - making vibe-coded recomps of games
 
 <!--
