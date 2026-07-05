@@ -1,7 +1,8 @@
 What's up, this is DarkWeBareBears69 (TheUnknownKoala4545) here!
 
 ## Blacklist (guys that i don't want to collab with)
-* mstan - making vibe-coded recomps of games
+* mstan - making vibe-coded decomps/recomps of games
+* The "R.A.I.D. — Retro AI Development" Discord Server - same reason as above
 
 <!--
 **DarkWeBareBears69/DarkWeBareBears69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
