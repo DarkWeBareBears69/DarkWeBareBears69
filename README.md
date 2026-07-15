@@ -1,5 +1,7 @@
 What's up, this is DarkWeBareBears69 (TheUnknownKoala4545) here!
 
+Tbh, I'm fine with vibe-coding (aka using AI as a coding assistant), but PLEASE, just try and fix the errors that the AI made, but I want it to be more-human.
+
 ## Blacklist (guys that i don't want to collab with)
 * mstan - making vibe-coded decomps/recomps of games
 * The "R.A.I.D. — Retro AI Development" Discord Server - same reason as above
